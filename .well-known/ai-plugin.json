@@ -3,7 +3,7 @@
   "name_for_model": "googleSearch",
   "name_for_human": "Google",
   "description_for_model": "Plugin for searching using Google Custom Search Engine and fetching the inner text of the first link in the search results.",
-  "description_for_human": "谷歌搜索，仅限自用，每天一百，超过付费。",
+  "description_for_human": "谷歌搜索，仅限自用，每天一百，超过付费。 by Tom.",
   "auth": {
     "type": "none"
   },
